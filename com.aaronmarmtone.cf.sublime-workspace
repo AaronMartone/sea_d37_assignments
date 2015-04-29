@@ -1,0 +1,476 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"uploade",
+				"uploadedBytes"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"se",
+				"services/"
+			],
+			[
+				"re",
+				"reset=\"true\"	reset"
+			],
+			[
+				"s",
+				"showdebugoutput=\"false\"	showdebugoutput"
+			],
+			[
+				"baselineShif",
+				"baselineShiftedElems"
+			],
+			[
+				"themeHome",
+				"themeHomeBaseColor"
+			],
+			[
+				"return",
+				"returnNthFibonacci"
+			],
+			[
+				"is",
+				"isPalindrome"
+			],
+			[
+				"nu",
+				"numberList"
+			],
+			[
+				"base",
+				"baselineAlign"
+			],
+			[
+				"isLa",
+				"isLargerThanViewport"
+			],
+			[
+				"viewpor",
+				"viewportWidth"
+			],
+			[
+				"sidebarBorder",
+				"sidebarBorderDarkColor"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"number",
+				"numberOfSlides"
+			],
+			[
+				"onl",
+				"onclick	Attr"
+			],
+			[
+				"curre",
+				"currentMarginTop"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"populate",
+				"populateNavVert"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/aaronmartone/Server/web/com.aaronmartone.cf"
+	],
+	"file_history":
+	[
+		"/Users/aaronmartone/Server/web/com.aaronmartone.cf/sea_d37/apr_28/grunt/grunt-notes.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_28/grunt/grunt-notes.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone.cf/Gruntfile.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/Gruntfile.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/package.json",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_28/npm/npm-notes.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_28/notes.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_27/bonus-answer.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_27/bonus-answer-cli.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_27/bonus-answer-test.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_28/grunt-notes.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/server.app.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_28/package-json-notes.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_28/semantic-versioning-notes.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_27/simple_tests_and_modular_patterns/task-b5.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_27/simple_tests_and_modular_patterns/task-1-caller.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_27/simple_tests_and_modular_patterns/README.md",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_27/simple_tests_and_modular_patterns/task-b4.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_27/simple_tests_and_modular_patterns/task-1.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_27/greet-test-3.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_27/simple_tests_and_modular_patterns/task-2.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_27/simple_tests_and_modular_patterns/task-B4.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_27/simple_tests_and_modular_patterns/task-3.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_27/greet-test-2.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_27/simple_tests_and_modular_patterns/myself.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_27/greet-3.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_27/greet-2.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_27/_notes.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_27/greet-test.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_27/greet.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea_d37/apr_27/program.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/sea-d37/apr27/notes.js",
+		"/Users/aaronmartone/.config/fish/config.fish",
+		"/Users/aaronmartone/.bash_profile",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/index.html",
+		"/Users/aaronmartone/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/nodeschool/functional/program.js",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/nodeschool/learnyounode/program.js",
+		"/Users/aaronmartone/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/aaronmartone/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/nodeschool/learnyounode/testdata.txt",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/tree-adt/tree-adt.js",
+		"/Volumes/Git 2.3.5 Mavericks Intel Universal/setup git PATH for non-terminal programs.sh",
+		"/Users/aaronmartone/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/cf.aaronmartone.dev.sublime-workspace",
+		"/Users/aaronmartone/Server/web/com.aaronmartone/hosts/cf/cf.aaronmartone.dev.sublime-project",
+		"/etc/hosts",
+		"/etc/apache2/httpd.conf",
+		"/var/log/apache2/error_log",
+		"/Users/aaronmartone/Hosts/aaronmartone.conf",
+		"/Users/aaronmartone/Server/web/com/com.aaronmartone/hosts/cf/index.html",
+		"/Users/aaronmartone/Server/web/com/aaronmartone/server.app.js",
+		"/Users/aaronmartone/Server/web/com/aaronmartone/libs/globals.lib.js",
+		"/private/etc/hosts",
+		"/private/var/log/apache2/error_log",
+		"/C/server/web/com.aaronmartone.mean/app.server.js",
+		"/C/server/web/com.aaronmartone.mean/app/logs/app.client.log",
+		"/C/server/web/com.aaronmartone.mean/app/logs/app.server.log",
+		"/C/server/web/com.aaronmartone.mean/.gitignore",
+		"/C/server/web/com.aaronmartone.mean/app.js",
+		"/C/server/web/com.aaronmartone.mean/app-cluster.js",
+		"/C/server/web/com.aaronmartone.mean/com.aaronmartone.mean.js",
+		"/C/server/web/com.aaronmartone.mean/com.aaronmartone.mean-cluster.js",
+		"/C/server/web/com.aaronmartone.mean/config/env/staging.js",
+		"/C/server/web/com.aaronmartone.mean/app/controllers/index.js",
+		"/C/server/web/com.aaronmartone.mean/app/views/layouts/main.hbs",
+		"/C/server/web/com.aaronmartone.mean/app/views/partials/test.hbs",
+		"/C/server/web/com.aaronmartone.mean/public/vendors/angular/angular.1.3.10.min.js",
+		"/C/server/web/com.aaronmartone.mean/app/views/layouts/main.handlebars",
+		"/C/server/web/com.aaronmartone.mean/app/views/about.handlebars",
+		"/C/server/web/com.aaronmartone.mean/app/views/errors/500.hbs",
+		"/C/Users/Aegis Kleais/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/server/web/com.aaronmartone.mean/public/scripts/node-info7.js",
+		"/C/server/web/com.aaronmartone.mean/public/scripts/node-info4.js",
+		"/C/server/web/com.aaronmartone.mean/public/scripts/node-info3.js",
+		"/C/server/web/com.aaronmartone.mean/public/scripts/node-info2.js",
+		"/C/server/web/com.aaronmartone.mean/public/scripts/node-info.js",
+		"/C/server/web/com.aaronmartone.mean/package.json",
+		"/C/server/web/com.aaronmartone.mean/app/views/500.handlebars",
+		"/C/server/web/com.aaronmartone.mean/app/views/404.handlebars",
+		"/C/server/web/com.aaronmartone.mean/app/views/home.handlebars",
+		"/C/server/web/com.aaronmartone.mean/config/config.js",
+		"/C/server/web/com.aaronmartone.mean/config/express.js",
+		"/C/server/web/com.aaronmartone.mean/config/env/development.js",
+		"/C/server/web/com.aaronmartone.mean/node_modules/angular/bower.json",
+		"/C/server/web/com.aaronmartone.mean/app/views/index.ejs",
+		"/C/server/web/com.aaronmartone.mean/server.js",
+		"/C/server/web/com.aaronmartone.mean/app/controllers/index.server.controller.js",
+		"/C/server/web/com.aaronmartone.mean/app/routes/index.server.routes.js",
+		"/C/server/web/com.aaronmartone.mean/server/views/index.ejs",
+		"/C/server/web/com.aaronmartone.mean/server/controllers/index.server.controller.js",
+		"/C/Users/Aegis Kleais/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/server/web/com.aaronmartone.mean/server/routes/index.server.routes.js",
+		"/C/server/web/aaronmartone.com/mean/server.js",
+		"/C/server/web/aaronmartone.com/mean/config/express.js",
+		"/C/server/web/aaronmartone.com/mean/server/routes/index.server.routes.js",
+		"/C/server/web/aaronmartone.com/mean/server/controllers/index.server.controller.js",
+		"/C/server/web/aaronmartone.com/mean/app/controllers/index.server.controller.js",
+		"/C/Users/Aegis Kleais/AppData/Roaming/npm/node_modules/supervisor/package.json",
+		"/C/server/web/aaronmartone.com/mean/package.json",
+		"/C/server/stack/mongodb/etc/mongod.cfg",
+		"/C/root/web/localhost/index.html",
+		"/C/root/web/localhost/battlemasters.js",
+		"/C/Users/Aegis Kleais/Desktop/battlemasters.js",
+		"/C/root/web/gutierrezdentistry.com/includes.cfm",
+		"/C/Users/Aegis Kleais/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/G/web/brevardsheriff.com/caliber2/aliases.cfm",
+		"/G/web/brevardsheriff.com/caliber2/includes.cfm",
+		"/G/web/brevardsheriff.com/caliber2/subjects.cfm",
+		"/G/web/brevardsheriff.com/caliber2/warrants.cfm",
+		"/G/web/brevardsheriff.com/caliber2/assets/scripts/bcso-caliber.js",
+		"/C/root/web/gutierrezdentistry.com/assets/styles/gutierrez.less",
+		"/C/root/web/gutierrezdentistry.com/index.cfm",
+		"/C/root/web/gutierrezdentistry.com/application.cfc",
+		"/C/root/web/gutierrezdentistry.com/services.cfm",
+		"/C/root/web/brevardsheriff.com/caliber/application.cfc",
+		"/C/root/web/aaronmartone.com/www/application.cfc",
+		"/C/root/web/gutierrezdentistry.com/about/gallery.cfm",
+		"/C/root/web/gutierrezdentistry.com/about/before-after.cfm",
+		"/C/root/web/gutierrezdentistry.com/about/testimonials.cfm",
+		"/C/root/web/gutierrezdentistry.com/about/staff.cfm",
+		"/C/root/web/gutierrezdentistry.com/about/doctors.cfm",
+		"/C/root/web/aaronmartone.com/www/assets/styles/aaronmartone.less",
+		"/C/Users/Aegis Kleais/Documents/My Games/Far Cry 4/6be92d8f-6029-4516-be53-8ffac042480b/GamerProfile.xml",
+		"/C/root/web/gutierrezdentistry.com/assets/scripts/gutierrez.js",
+		"/C/root/web/aaronmartone.com/www/index.cfm",
+		"/C/root/web/aaronmartone.com/_private/list-adt.js",
+		"/C/Windows/System32/drivers/etc/hosts"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"C:\\server-root\\web-root\\com\\aaronmartone"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<Host",
+			"folder",
+			"\"",
+			"viewport",
+			".fa{",
+			"//cdn",
+			"cdn.aaronmartone",
+			"active",
+			"../fonts",
+			"twitter",
+			"#main",
+			"#menu",
+			"#main",
+			"#menu",
+			"#main",
+			"406975",
+			"6c7981",
+			"536168",
+			"606d75",
+			"113c4a",
+			"updateNavVertUI",
+			"populateNavVert",
+			"populateNavHoriz",
+			"nav-horiz",
+			"nav-vert",
+			"nav-horiz",
+			"currentIndex",
+			"link"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "com.aaronmarmtone.cf.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
