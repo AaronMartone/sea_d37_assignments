@@ -1,0 +1,18 @@
+{
+  "name": "sea-d37-apr-29",
+  "version": "0.1.0",
+  "description": "Project files for SEA-D37, April 29",
+  "main": "add-gruntfile-and-package-json-to-greet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron R. Martone <am@aaronmartone.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "mocha": "^2.2.4"
+  }
+}
