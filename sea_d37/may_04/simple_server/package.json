@@ -1,0 +1,17 @@
+{
+  "name": "basic_http_server",
+  "version": "0.1.0",
+  "description": "basic server, wow, such server, so basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/basic-server-test.js",
+    "start": "node server"
+  },
+  "author": "Aaron R. Martone <am@aaronmartone.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "chai-http": "^1.0.0",
+    "mocha": "^2.2.4"
+  }
+}
